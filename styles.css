@@ -1,7 +1,8 @@
 body{
 
     background-color: aquamarine; 
-    color:darkcyan   
+    color:darkcyan;
+    display: flex;
 }
 
 header {
@@ -12,3 +13,4 @@ header {
     margin-right: 80;
 
 }
+
