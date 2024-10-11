@@ -3,3 +3,9 @@ body{
     background-color: aquamarine; 
     color:darkcyan   
 }
+
+header {
+    text-align: center;
+    text-size: 30px;
+
+}
