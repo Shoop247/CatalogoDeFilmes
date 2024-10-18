@@ -2,7 +2,6 @@ body{
 
     background-color: rgb(127, 255, 212); 
     color:darkcyan;
-    display: flex;
 }
 
 header {
@@ -16,6 +15,7 @@ header {
 
 section {
     display: flex;
-    background-color: darkolivegreen
-    ;
+    background-color: darkolivegreen;
+    
 }
+
